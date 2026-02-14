@@ -1,0 +1,46 @@
+# ESP-IDF build artifacts
+build/
+build_*_*/
+
+# Generated configuration (keep sdkconfig.defaults tracked)
+sdkconfig
+sdkconfig.old
+
+# ESP-IDF dependency manager
+dependencies.lock
+managed_components/
+
+# Log files and temporary files
+*.log
+*.o
+*.pyc
+__pycache__/
+.pytest_cache/
+pytest_embedded_log/
+
+# IDEs
+.vscode/
+.idea/
+.clangd
+.ccls-cache/
+*.swp
+*.swo
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local development/agent files
+CLAUDE.md
+.claude/
+
+# Temporary/backup files
+*.orig
+*.tmp
+
+# FreeCAD temporary and backup files
+.xdp-*
+*.FCBak*
+*.FCStd1
+*.FCStd2
