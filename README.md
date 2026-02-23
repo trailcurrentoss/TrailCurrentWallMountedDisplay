@@ -1,6 +1,6 @@
 # TrailCurrent Wall Mounted Display
 
-Central control display firmware for an ESP32-P4 with a 7" touchscreen, providing a dashboard for monitoring and controlling devices on the TrailCurrent CAN bus via WiFi and MQTT.
+Central control display firmware for an ESP32-P4 with a 7" touchscreen, providing a dashboard for monitoring and controlling devices on the [TrailCurrent](https://trailcurrent.com) CAN bus via WiFi and MQTT.
 
 ## Home Screen
 
